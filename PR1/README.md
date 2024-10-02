@@ -12,20 +12,26 @@
 
 ### **Устанавим и настроим rsyslog на сервере и клиенте**
 
-
+![image](Screenshots/4.png)
 
 ### **Проверим работоспособность rsyslog на сервере и клиенте**
 
-
+![image](Screenshots/5.png)
 
 ### **Включим UDP и TCP соединения**
 
-
+![image](Screenshots/6.png)
 
 ### **Установим правила на сервере**
 
+![image](Screenshots/7.png)
 
 ### **Установим правила на клиенте**
 
+![image](Screenshots/8.png)
 
 ### **Проверим получения логов на сервере**
+
+![image](Screenshots/9.png)
+
+![image](Screenshots/10.png)
