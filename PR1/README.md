@@ -68,8 +68,9 @@
 
 ## **4. Перейдем к настройке получения логов на сервере с использованием Signoz**
 
-Установка Signoze выполнена согласно информации с источника - https://signoz.io/docs/install/docker/#install-signoz-using-docker-compose_
-Установка sample-nodejs-app выполнена согласно информации с источника - https://github.com/SigNoz/sample-nodejs-app/_
+Установка Signoze выполнена согласно информации с источника - https://signoz.io/docs/install/docker/#install-signoz-using-docker-compose
+
+Установка sample-nodejs-app выполнена согласно информации с источника - https://github.com/SigNoz/sample-nodejs-app/
 
 ### *4.1 Запустим Signoz*
 
