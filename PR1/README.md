@@ -40,9 +40,9 @@
 
 ### *Установим и отредактируем docker compose файл на сервере*
 
-   ![image](Screenshots/11.png)
+![image](Screenshots/11.png)
    
-   ![image](Screenshots/12.png)
+![image](Screenshots/12.png)
 
 ### *Запустим Loki*
 
@@ -62,9 +62,9 @@
 
 ### *Просмотрим логи клиента в Grafana Loki*
 
-   ![image](Screenshots/17.png)
+![image](Screenshots/17.png)
 
-   ![image](Screenshots/18.png)
+![image](Screenshots/18.png)
 
 ## **4. Перейдем к настройке получения логов на сервере с использованием Signoz**
 
@@ -74,14 +74,24 @@
 
 ### *4.1 Запустим Signoz*
 
+![image](Screenshots/19.png)
+   
+![image](Screenshots/20.png)
+   
+![image](Screenshots/21.png)
 
 
 ### *Отредактируем конфигурации на клиенте для отправки данных в Signoz*
 
-
+![image](Screenshots/22.png)
 
 ### *Запустим клиентское приложение sample-nodejs-app*
 
-
+![image](Screenshots/23.png)
 
 ### *Проверим получение логов в Signoz*
+
+![image](Screenshots/24.png)
+   
+![image](Screenshots/25.png)
+
