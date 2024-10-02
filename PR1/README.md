@@ -40,22 +40,28 @@
 
 ### *Установим и отредактируем docker compose файл на сервере*
 
-
+   ![image](Screenshots/11.png)
+   
+   ![image](Screenshots/12.png)
 
 ### *Запустим Loki*
 
-
+![image](Screenshots/13.png)
 
 ### *Отредактируем promtail-config на клиенте*
 
-
+![image](Screenshots/14.png)
 
 ### *Отредактируем docker compose файл для promtail*
 
-
+![image](Screenshots/15.png)
 
 ### *Запустим promtail на клиенте*
 
-
+![image](Screenshots/16.png)
 
 ### *Просмотрим логи клиента в Grafana Loki*
+
+   ![image](Screenshots/17.png)
+
+   ![image](Screenshots/18.png)
