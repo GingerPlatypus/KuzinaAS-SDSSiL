@@ -7,3 +7,5 @@
 ### Выполнение третьей практики - [Практика 3](https://github.com/GingerPlatypus/KuzinaAS-SDSSiL/tree/698838255e1dc1e912693a67707405351d085659/PR3)
 
 ### Выполнение четвертой практики - [Практика 4](https://github.com/GingerPlatypus/KuzinaAS-SDSSiL/tree/f346ea3dcc23732fbaf26c6dfc0577e9247421c2/PR4)
+
+### Выполнение пятой практики - [Практика 5](https://github.com/GingerPlatypus/KuzinaAS-SDSSiL/tree/d7a3656dcde7c7c04b992860284b5c3c5097b3a0/PR5)
